@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>👨🏻‍🎓 I'll be graduating in Computer Engineering in dec/2023.<br>👨🏻‍💻 I can build mobile Apps with Flutter, do backend with Dart, Python using MySQL as a database. And I can deploy using Docker. <br>🎯 Goals: Learn more, maybe deploy things without downtime.<br>🎲 Fun fact: In my free time, I enjoy watching Tv Series and play games,  lately I've been playing Eurotruck it's very relaxing. And I love cars :D</p>
+<p align="left">✨ Creating bugs since 2019<br>👨🏻‍🎓 I’m graduated in Computer Engineering.<br>👨🏻‍💻 I can build mobile Apps with Flutter, do backend with Dart, Python using MySQL as a database. And I can deploy using Docker. <br>🎯 Goals: Learn more, maybe deploy things without downtime.<br>🎲 Fun fact: In my free time, I enjoy watching Tv Series and play games,  lately I've been playing Eurotruck it's very relaxing. And I love cars :D</p>
 
 ###
 
